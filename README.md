@@ -4,7 +4,7 @@ This project demonstrates abstractive text summarization using two powerful tran
 
 - `google/pegasus-xsum`
 - `t5-base`
-----
+---------
 -----
 
 ## 🔍 Models
