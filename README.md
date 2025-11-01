@@ -17,7 +17,7 @@ This project demonstrates abstractive text summarization using two powerful tran
 - Flexible model for summarization, Q&A, translation, etc.
 - Uses prefix prompting (e.g., `"summarize:"`)
 
----
+--------
 
 ## ⚙️ Requirements
 
