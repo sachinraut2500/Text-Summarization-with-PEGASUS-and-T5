@@ -12,7 +12,7 @@ This project demonstrates abstractive text summarization using two powerful tran
 ### 🔹 PEGASUS
 - Pretrained for extreme summarization (one-sentence summaries)
 - Great for news, articles, and concise summaries
-
+-
 ### 🔹 T5
 - Flexible model for summarization, Q&A, translation, etc.
 - Uses prefix prompting (e.g., `"summarize:"`)
