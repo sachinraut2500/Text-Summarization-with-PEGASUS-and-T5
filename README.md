@@ -8,7 +8,7 @@ This project demonstrates abstractive text summarization using two powerful tran
 ------
 
 ## 🔍 Models
-
+---
 ### 🔹 PEGASUS
 - Pretrained for extreme summarization (one-sentence summaries)
 - Great for news, articles, and concise summaries
