@@ -1,7 +1,7 @@
 # 📝 Text Summarization with PEGASUS and T5
 
 This project demonstrates abstractive text summarization using two powerful transformer-based models:
--------------------------
+--------------------------
 
 - `google/pegasus-xsum`
 - `t5-base`
